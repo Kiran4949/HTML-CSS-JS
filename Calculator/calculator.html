@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Calculator </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main">
+        <form name="fin">
+            <input type="text" name="fname" id="text" placeholder="0"> <br />
+            <input type="button" value="1" onclick="fin.fname.value+=1">
+            <input type="button" value="2" onclick="fin.fname.value+=2">
+            <input type="button" value="3" onclick="fin.fname.value+=3">
+            <input type="button" value="+" onclick="add()"> <br />
+
+            <input type="button" value="4" onclick="fin.fname.value+=4">
+            <input type="button" value="5" onclick="fin.fname.value+=5">
+            <input type="button" value="6" onclick="fin.fname.value+=6">
+            <input type="button" value="-" onclick="sub()"> <br />
+
+            <input type="button" value="7" onclick="fin.fname.value+=7">
+            <input type="button" value="8" onclick="fin.fname.value+=8">
+            <input type="button" value="9" onclick="fin.fname.value+=9">
+            <input type="button" value="/" onclick="div()"> <br />
+
+            <input type="button" value="c" onclick="fin.fname.value= '' ">
+            <input type="button" value="0" onclick="fin.fname.value+=0">
+            <input type="button" value="=" onclick="fin.fname.value= eval(fin.fname.value)">
+            <input type="button" value="x" onclick="mul()"> <br />
+        </form>
+    </div>
+    <script src="script.js" async defer></script>
+</body>
+</html>
