@@ -8,7 +8,7 @@ Welcome to the HTML, CSS, and JavaScript Projects repository! This repository sh
 
 Description: A functional calculator application with a user-friendly interface.
 
-### ⏲️ <a href="#" target="_blank">Countdown Timer</a> 
+### ⏲️ <a href="https://countdown-master.netlify.app/" target="_blank">Countdown Timer</a> 
 
 Description: A countdown timer with customizable time settings.
 
@@ -51,6 +51,11 @@ Description: A tool for generating and selecting color codes.
 ### 🛠️ <a href="https://custom-scrollbars.netlify.app/" target="_blank">Custom Scrollbars</a>
 
 Description: A project demonstrating custom-styled scrollbars for improved user experience.
+
+### 🔍 <a href="https://zoom-images.netlify.app/" target="_blank">JS Zoom Image</a>
+
+Description: A project that provides a zoom-in functionality for images on hover.
+
 
 ## 🚀 Getting Started
 
