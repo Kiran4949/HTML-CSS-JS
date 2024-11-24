@@ -4,13 +4,21 @@ Welcome to the HTML, CSS, and JavaScript Projects repository! This repository sh
 
 ## ✨ Projects
 
-### 🧮 <a href="" target="_blank">Calculator</a> 
+### 🧮 <a href="#" target="_blank">Calculator</a> 
 
 Description: A functional calculator application with a user-friendly interface.
+
+### 🎨 <a href="https://color-picker-generator.netlify.app/" target="_blank">Color Picker Generator</a>
+
+Description: A tool for generating and selecting color codes.
 
 ### ⏲️ <a href="https://countdown-master.netlify.app/" target="_blank">Countdown Timer</a> 
 
 Description: A countdown timer with customizable time settings.
+
+### 🛠️ <a href="https://custom-scrollbars.netlify.app/" target="_blank">Custom Scrollbars</a>
+
+Description: A project demonstrating custom-styled scrollbars for improved user experience.
 
 ### 📄 <a href="#" target="_blank">Documentation Website</a> 
 
@@ -20,13 +28,17 @@ Description: A template for a documentation website, showcasing structure and de
 
 Description: A responsive email template suitable for various email clients.
 
-### 🎨 <a href="#" target="_blank">Hex Color Generator</a> 
+### 🎨 <a href="https://hex-colour-generator.netlify.app/" target="_blank">Hex Color Generator</a> 
 
 Description: A tool for generating and copying hex color codes.
 
 ### 📝 <a href="#" target="_blank">Job Application Form</a> 
 
 Description: A job application form with validation and user input handling.
+
+### 🔍 <a href="https://zoom-images.netlify.app/" target="_blank">JS Zoom Image</a>
+
+Description: A project that provides a zoom-in functionality for images on hover.
 
 ### 🌐 <a href="#" target="_blank">Landing Page</a> 
 
@@ -44,18 +56,6 @@ Description: Another responsive email template, with different styling and layou
 
 Description: A weather application that provides current weather information based on user location.
 
-### 🎨 <a href="https://color-picker-generator.netlify.app/" target="_blank">Color Picker Generator<a>
-
-Description: A tool for generating and selecting color codes.
-
-### 🛠️ <a href="https://custom-scrollbars.netlify.app/" target="_blank">Custom Scrollbars</a>
-
-Description: A project demonstrating custom-styled scrollbars for improved user experience.
-
-### 🔍 <a href="https://zoom-images.netlify.app/" target="_blank">JS Zoom Image</a>
-
-Description: A project that provides a zoom-in functionality for images on hover.
-
 
 ## 🚀 Getting Started
 
@@ -64,7 +64,6 @@ To get started with any of these projects, clone this repository and open the re
    ```bash
    git clone https://github.com/Kiran4949/HTML-CSS-JS.git
    cd html-css-js
-   ```
 
 ## ✨ Contributing
 
