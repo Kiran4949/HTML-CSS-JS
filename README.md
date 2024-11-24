@@ -65,6 +65,8 @@ To get started with any of these projects, clone this repository and open the re
    git clone https://github.com/Kiran4949/HTML-CSS-JS.git
    cd html-css-js
 
+   ```
+
 ## ✨ Contributing
 
 Feel free to contribute to this repository by submitting pull requests or creating issues for any improvements or bug fixes.
